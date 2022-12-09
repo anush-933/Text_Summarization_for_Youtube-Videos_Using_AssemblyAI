@@ -39,8 +39,8 @@ HOW TO RUN THE CODE:
        
        SAMPLE OUTPUT:
        Careers in Tech - Panel Discussion.mp4   //First output 
-       SummaryTextFile.txt                      //Second Output
-       Youtube_transcript.txt                   //Third Output
+       Youtube_transcript.txt                        //Second Output
+       SummaryTextFile.txt                   //Third Output
  
  HOW TO TEST THE CODE:
    
