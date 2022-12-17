@@ -1,5 +1,5 @@
-# AnushreeK_IITB_ML_Internship_Assignment_Dec2022
-Problem statement 4 - Panel Discussion Summarization
+
+Problem statement - Panel Discussion Summarization
 
 APPROACH:
 
