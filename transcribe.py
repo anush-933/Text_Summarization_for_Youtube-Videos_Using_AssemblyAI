@@ -25,7 +25,7 @@ def get_youtube_transcribe(URL):
                     break
                 yield data
 
-    headers = {'authorization': '4527be6845394eb7992b05b15a6768ff'}
+    headers = {'authorization': '4527be6845394eb7992b05b15a******'}
     response = requests.post('https://api.assemblyai.com/v2/upload',
                              headers=headers,
                              data=read_file(filename))
@@ -36,7 +36,7 @@ def get_youtube_transcribe(URL):
     }
 
     headers = {
-        "authorization": '4527be6845394eb7992b05b15a6768ff',
+        "authorization": '4527be6845394eb7992b05b15a******',
         "content-type": "application/json"
     }
 
